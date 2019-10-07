@@ -8,10 +8,10 @@
     <body>
         <h1> CURRICULUM VITAE </h1>
        <nav class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
-  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
-  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
-</nav>
+		  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+		  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+		  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+		</nav>
 
     </body>
-</html>x
+</html>
